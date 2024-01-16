@@ -1,4 +1,4 @@
-package TestNG;
+kjpackage TestNG;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
@@ -27,6 +27,7 @@ public class NewTest1 extends Pojo  {
 	public void BeforeMethod()
 	{
 		System.out.println("BeforeMethod");
+		System.out.println("ganesh");
 	}
 	
   @Test
