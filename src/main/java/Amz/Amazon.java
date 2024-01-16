@@ -24,6 +24,7 @@ public void Homepage()
 	Boolean logo1 = logo.isDisplayed();
 	System.out.println(logo1);
 System.out.println("amazon");
+System.out.println("abc");
 }
 
 
